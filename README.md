@@ -4,7 +4,7 @@ A docker container for Steam based game servers via [SteamCMD](https://developer
 
 ## Overview
 
-Includes steamcmd and its dependencies.  Just run `$STEAMCMD_DIR/steamcmd.sh` in your own Dockerfile or via `docker run` or `docker exec`, etc.
+Includes steamCMD and its dependencies.  Just run `$STEAMCMD_DIR/steamcmd.sh` in your own Dockerfile or via `docker run` or `docker exec`, etc.
 
 ## Disclaimer
 
